@@ -7,3 +7,7 @@ Curation and brief description of *scores* and *metrics* involved in reliability
 - [Papers](#papers)
 
 ## Papers
+
+- [Verification of Forecasts Expressed in Terms Of Probability](https://journals.ametsoc.org/downloadpdf/journals/mwre/78/1/1520-0493_1950_078_0001_vofeit_2_0_co_2.pdf), G.W Brier, Monthly Weather Review, 1950 | [bibtex]() 
+  
+  ![CDNJS](https://img.shields.io/badge/pred-binary-red?style=flat-square) ![CDNJS](https://img.shields.io/badge/domain-weather-9cf?style=flat-square)
