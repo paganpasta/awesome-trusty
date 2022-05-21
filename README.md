@@ -1,5 +1,5 @@
 # awesome-trusty [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Curation and brief description of *scores* and *metrics* involved in reliability and trustworthiness of a model's prediction
+Curation of papers dealing with reliability, verification, calibration and trustworthiness of a model's prediction.
 
 #### [How to submit a pull request?]()
 
@@ -28,6 +28,10 @@ Curation and brief description of *scores* and *metrics* involved in reliability
 
   ![CDNJS](https://img.shields.io/badge/domain-stats-B47AF2?style=flat-square)
   
-- [Calibration of Probabilities: The State of the Art](https://link.springer.com/chapter/10.1007/978-94-010-1276-8_19) | S. Lichtenstein et. al, Decision Making and Change in Human Affairs, 1977 | [bibtex]()
+- [Calibration of Probabilities: The State of the Art](https://link.springer.com/chapter/10.1007/978-94-010-1276-8_19), S. Lichtenstein et al, Decision Making and Change in Human Affairs, 1977 | [bibtex]()
 
   ![CDNJS](https://img.shields.io/badge/domain-weather-9cf?style=flat-square)
+
+- [Assessing the performance of prediction models: a framework for some traditional and novel measures](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3575184/), E.W. Steyerberg et al, Epidemiology, 2010 | [bibtex]()
+
+   ![CDNJS](https://img.shields.io/badge/domain-medicine-B6FE39?style=flat-square)
